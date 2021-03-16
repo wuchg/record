@@ -14,8 +14,11 @@ Robert Barton 、1959年最早提出堆栈计算机设想。
 其实我也没明白, /捂脸
 
 有了堆栈这种结构，多重嵌套递归、子程序的多重调用、中断服务等功能就很容易实现了。
+堆栈的这种组成结构，对于计算法采用反向波兰表示法(reverse polish notation,RPN)编写的算术表达式十分有效。
 
 
-http://www.techcn.com.cn/index.php?doc-view-131751.html
-http://www.techcn.com.cn/index.php?doc-view-130902.html
+http://www.techcn.com.cn/index.php?doc-view-131751.html 
+
+http://www.techcn.com.cn/index.php?doc-view-130902.html 
+
 https://zhuanlan.zhihu.com/p/65110137
