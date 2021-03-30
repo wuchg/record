@@ -11,3 +11,4 @@ client.get().uri(uriBuilder -> uriBuilder.path("/graphql")
 		.expectStatus().isOk();
 ```
  
+ 
