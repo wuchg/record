@@ -12,3 +12,4 @@ client.get().uri(uriBuilder -> uriBuilder.path("/graphql")
 ```
  
  
+find ~/.gradle -type f -name "*.lock" -delete
